@@ -1,0 +1,12 @@
+{
+	"Token": "",
+	"ErrorHbChannel": 0,
+	"Prefixes": [],
+	"DiscordInvite": "",
+	"GitHub": "",
+	"XpInfo": {
+		"MinXp": 10,
+		"MaxXp": 20,
+		"CoolDown": "00:03:00"
+	}
+}
